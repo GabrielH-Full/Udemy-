@@ -31,7 +31,7 @@ public class pares_consecutivos {
             System.out.print("Digite um numero inteiro: ");
             n1 = sc.nextInt();
         }
-
+        sc.close();
     }
 }
 
